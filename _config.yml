@@ -15,10 +15,12 @@
 # in the templates via {{ site.myvariable }}.
 title: Christian Hosam
 email: chosam@berkeley.edu
-description: Christian Hosam is a PhD Candidate in Political Science at UC Berkeley. # this means to ignore newlines until "baseurl:"
+description: Hello! Welcome to my page! My name is Christian Hosam and I am currently a PhD Candidate in Political Science at UC Berkeley. My work focuses on Black politic
+and my dissertation project is on the Congressional Black Caucus and the ways in which they have both supported and constrained insurrectionary Black political movements since
+the end of the Civil Rights Movement. # this means to ignore newlines until "baseurl:"
 twitter_username: hosam_christian
 github_username: chosam2322
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: air
 search: true
 
 # Build settings
