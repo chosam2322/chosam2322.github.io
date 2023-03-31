@@ -9,8 +9,6 @@ profile:
   image: 20221006_PoliSciStaff_bhs_087.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Oakland, California</p>
-    
     <i>Thank you for taking a moment to learn about me and my work.</i>
 
 news: false  # includes a list of news items
