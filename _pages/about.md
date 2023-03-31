@@ -11,7 +11,7 @@ profile:
   address: >
     <p>Oakland, California</p>
     
-    <p>*Thank you for taking a moment to learn about me and my work.*</p>
+    <i>Thank you for taking a moment to learn about me and my work.</i>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
