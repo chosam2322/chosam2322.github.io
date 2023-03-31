@@ -11,11 +11,11 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of California, Berkeley, Political Science
-      year: May 2024 (expected)
+      institution: University of California, Berkeley, <i>Political Science</i>
+      year: 2024 (expected)
       description:
-        - Dissertation Title: "Triaging Representation: The Congressional Black Caucus and Anti-Black Governance"
-        - Dissertation Committee: Taeku Lee (Co-Chair), Eric Schickler (Co-Chair), Desmond Jagmohan, Marcia Chatelain
+        - dissertation title: "Triaging Representation: The Congressional Black Caucus and Anti-Black Governance"
+        - committee: Taeku Lee (Co-Chair), Eric Schickler (Co-Chair), Desmond Jagmohan, Marcia Chatelain
     - title: BA
       institution: Wesleyan University
       year: 2015
