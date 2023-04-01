@@ -6,23 +6,18 @@
     - name: Date of Birth
       value: August 23rd, 1993
   
-
 - title: Education
   type: time_table
   contents:
     - title: PhD
       institution: University of California, Berkeley, <i>Political Science</i>
       year: 2024 (expected)
-      description:
         - Dissertation Title: "Triaging Representation: The Congressional Black Caucus and Anti-Black Governance"
         - Committee: Taeku Lee (Co-Chair), Eric Schickler (Co-Chair), Desmond Jagmohan, Marcia Chatelain
-    - title: BA
-      institution: Wesleyan University
+    - title: Bachelor of Arts (BA)
+      institution: Wesleyan University (Majors: Government and African American Studies)
       year: 2015
-      description:
-        - Major(s): Government and African American Studies
       
-
 - title: Experience
   type: time_table
   contents:
@@ -58,12 +53,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: American Politics
-    - title: Racial and Ethnic Politics
-    - title: Congress
-    - title: Black Politics
-    - title: Representation
-    - title: Public Health
-    - title: American Political Economy
+    - title: American Politics, Racial and Ethnic Politics, Congress, Black Politics, Representation, Public Health, American Political Economy
+    
       
 
