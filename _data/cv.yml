@@ -38,37 +38,32 @@
       institution: Irvine Project
       year: 2019-2021
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - UC Berkeley Institute for Governmental Studies David M. Howard Prize
+        - UC Berkeley Political Science Graduate Mentorship Award
+        - UC Berkeley Graduate Division Conference Travel Grant
+    - year: 2021
       items: 
-        - Max Planck Medal
+        - Social Science Research Council Anxieties of Democracy Grant
+        - UC Berkeley Center for the Study of Law and Society Fellowship
+        - Ford Foundation Predoctoral Fellowship (Honorable Mention)
+    - year: 2017
+      items:
+        - APSA Diversity Fellowship Program
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: American Politics
+    - title: Racial and Ethnic Politics
+    - title: Congress
+    - title: Black Politics
+    - title: Representation
+    - title: Public Health
+    - title: American Political Economy
+      
 
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
