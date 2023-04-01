@@ -18,6 +18,10 @@
     - title: Bachelor of Arts (BA)
       institution: Wesleyan University (Majors: Government and African American Studies)
       year: 2015
+      description: 
+        - Majors
+          - Government
+          - African American Studies
       
 - title: Experience
   type: time_table
