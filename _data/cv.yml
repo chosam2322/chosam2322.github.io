@@ -18,10 +18,7 @@
     - title: Bachelor of Arts (BA)
       institution: Wesleyan University (Majors: Government and African American Studies)
       year: 2015
-      description: 
-        - Majors
-          - Government
-          - African American Studies
+      
       
 - title: Experience
   type: time_table
@@ -58,7 +55,6 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: American Politics, Racial and Ethnic Politics, Congress, Black Politics, Representation, Public Health, American Political Economy
-    
+    - title: American Politics
       
 
