@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Triaging Representation
+description: My dissertation project on the interplay between Black representation and community investment
+img: assets/img/jeffries_pic.jpeg
 importance: 1
-category: work
+category: research projects
 ---
 
 Every project has a beautiful feature showcase page.
