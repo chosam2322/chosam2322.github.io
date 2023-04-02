@@ -27,8 +27,11 @@ In the Summer of 2023, I will be teaching my own course: "A Seat at The Table? R
 2. Fall 2020 - "Race: An American Dilemma" for [Taeku Lee](https://www.gov.harvard.edu/directory/taeku-lee/)
 3. Spring 2021 - "Congress" for [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)
 
+Some selected reviews of my teaching are below: 
+
+- <i>"In my time at Cal, I find what dictates the strength of a GSI is his or her ability to take the random thoughts of students and meet them where they're at. Bad GSIs have a preconceived framework of the material in their heads and seem to be limited by this reconception. Christian seems to be just as capable as some of the best professors I've had at Cal to meet students where they are, which I think is requisite to being able to maximize the facilitation of new learning."</i>
+- <i>"Christian was great! I didn't have a ton of academic background in racial politics before taking the class, and I was still learning a lot of the language and how to talk about issues as the class went on. Even though I wasn't as experienced as some of my classmates, I never felt too afraid of being cold–called, which usually I hate, because I knew that even if I said something that I wasn't phrasing right or wasn't fully fleshed out yet, Christian would be able to help reframe it in a way that was really really helpful and constructive. Christian was clearly highly interested in what we had to say and let us largely steer the class after he set us up with a topic to talk about, which was a welcome alternative to highly–scripted sections, and I felt like made for a more fruitful learning environment. He's a great GSI!"</i>
+- <i>"Christian was incredibly thoughtful about our ability to participate given the circumstances (both COVID and elections season); he ensured we were able to engage in meaningful conversations of the material and encouraged participation proactively. Christan was also extremely flexible and adaptive to the needs of individual students and would go out of his way to be supportive. Christian was also open to facilitating discussion based on our interests and questions which was helpful in allowing us to explore the course more openly and comfortably."</i>
 
 
 I will also be completing the UC Berkeley [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) in Fall 2023. 
-
-Some selected reviews of my teaching are below: 
