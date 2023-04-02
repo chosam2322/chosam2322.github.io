@@ -24,7 +24,7 @@ In the Summer of 2023, I will be teaching my own course: "A Seat at The Table? R
 ## teaching experience as a GSI (graduate student instructor)
   During my time at UC Berkeley, I was a Graduate Student Instructor for three courses
 1. Spring 2020 - "History of African American Political Thought" for [Desmond Jagmohan](https://polisci.berkeley.edu/people/person/desmond-jagmohan)
-2. Fall 2020 - "Race: An American Dilemma" for [Taeku Lee](https://www.gov.harvard.edu/directory/taeku-lee/)
+2. Fall 2020 - "Race and the American Dilemma" for [Taeku Lee](https://www.gov.harvard.edu/directory/taeku-lee/)
 3. Spring 2021 - "Congress" for [Eric Schickler](https://polisci.berkeley.edu/people/person/eric-schickler)
 
 Some selected reviews of my teaching are below: 
