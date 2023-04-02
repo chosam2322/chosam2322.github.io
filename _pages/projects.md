@@ -5,7 +5,7 @@ permalink: /projects/
 description: A bit of information about each of my ongoing and completed projects.
 nav: true
 nav_order: 2
-display_categories: [research work projects, work, fun]
+display_categories: [personal research agenda, research assistance]
 horizontal: false
 ---
 
