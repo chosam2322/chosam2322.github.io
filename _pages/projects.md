@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A bit of information about each of my ongoing and completed projects.
+description: A bit of information about some of my ongoing and completed projects.
 nav: true
 nav_order: 2
-display_categories: [personal research agenda, research assistance]
+display_categories: [research agenda, research assistance]
 horizontal: false
 ---
 
