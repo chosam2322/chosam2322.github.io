@@ -1,6 +1,5 @@
 ---
 layout: post
-title: APSA Paper Acceptance
 date: 2023-03-06
 inline: false
 related_posts: false
