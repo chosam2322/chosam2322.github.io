@@ -8,9 +8,9 @@
 :root {
   --global-bg-color: #ffffff;
   --global-code-bg-color: rgba(181, 9, 172, 0.05);
-  --global-text-color: #00369f;
+  --global-text-color: #000000;
   --global-text-color-light: #0076df;
-  --global-theme-color: #0076df;
+  --global-theme-color: #00369f;
   --global-hover-color: #0076df;
   --global-footer-bg-color: #1C1C1D;
   --global-footer-text-color: #e8e8e8;
@@ -39,7 +39,7 @@ html[data-theme=dark] {
   --global-code-bg-color: #2c3237;
   --global-text-color: #e8e8e8;
   --global-text-color-light: #e8e8e8;
-  --global-theme-color: #0076df;
+  --global-theme-color: #2698BA;
   --global-hover-color: #2698BA;
   --global-footer-bg-color: #e8e8e8;
   --global-footer-text-color: #1C1C1D;
