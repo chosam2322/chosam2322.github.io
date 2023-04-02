@@ -26,3 +26,4 @@ Outside of work, I can be found in the gym, listening to the same music on repea
 
 ## Research Agenda 
 All of my research projects are driven by thinking about structural aspects of the American political economy play out in the day-to-day lives of Black people and other communities of color. My dissertation book project looks at how the shifting nature of Congress as an institution in the years following the Civil Rights Movement led to increased descriptive representation on one hand but increasing constraints on the types of transformational policies that can materially change the lives of Black people. I have other work on the American maternal mortality crisis and how the structure of American healthcare uniquely imperils the life course of Black women. 
+<br>
