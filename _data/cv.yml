@@ -1,11 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Christian Hosam
-    - name: Location
-      value: Oakland, CA
-  
 - title: Education
   type: time_table
   contents:
@@ -55,7 +47,7 @@
 
 - title: Academic Interests
   type: nested_list
-  contents:
-    - title: American Politics, American Political Economy, Racial and Ethnic Politics, Health Policy, Representation
+  contents: 
+    - description: American Politics 
       
 
