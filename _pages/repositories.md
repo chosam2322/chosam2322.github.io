@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description:
+description: My repositories are currently private as I move through them but will be made public in the coming months
 nav: true
 nav_order: 3
 ---
