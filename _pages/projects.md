@@ -5,7 +5,7 @@ permalink: /projects/
 description: A bit of information about some of my ongoing and completed projects.
 nav: true
 nav_order: 2
-display_categories: [research agenda, research assistance]
+display_categories: [Research Agenda, Research Assistance]
 horizontal: false
 ---
 
