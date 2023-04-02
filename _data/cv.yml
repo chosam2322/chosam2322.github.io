@@ -14,10 +14,9 @@
       year: 2015
       
 - title: Academic Interests
-  type: list
+  type: nested_list
   contents: 
-    - title: American Politics, 
-    - title: Black Politics, Representation, Public Health Governance, Racial and Ethnic Politics 
+    - title: American Politics, Black Politics, Health Policy Governance, Representation, Federalism
               
 - title: Experience
   type: time_table
