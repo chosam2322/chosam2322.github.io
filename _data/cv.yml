@@ -12,6 +12,12 @@
       description: 
         - <b>Major(s)</b> - Government and African American Studies
       year: 2015
+      
+- title: Academic Interests
+  type: list
+  contents: 
+    - title: American Politics, 
+    - title: Black Politics, Representation, Public Health Governance, Racial and Ethnic Politics 
               
 - title: Experience
   type: time_table
@@ -45,9 +51,6 @@
       items:
         - APSA Diversity Fellowship Program
 
-- title: Academic Interests
-  type: nested_list
-  contents: 
-    - description: American Politics 
+
       
 
