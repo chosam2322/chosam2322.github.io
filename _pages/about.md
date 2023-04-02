@@ -20,7 +20,7 @@ Hello and welcome to my page! My name is Christian Hosam and I am a fifth year P
 
 In addition to my academic work, I have also written for public outlets such as [Dissent Magazine](https://www.dissentmagazine.org/online_articles/from-police-brutality-to-the-city-budget) and [The Washington Post](https://www.washingtonpost.com/news/made-by-history/wp/2018/06/15/the-supreme-courts-long-war-against-voting-rights/). 
   
-Outside of work, I can be found in the gym, finding the next album I'll listen to on repeat, or walking my dog Penelope. 
+Outside of work, I can be found in the gym, listening to the same music on repeat, or walking my dog Penelope. 
 
 ## Research Agenda 
 All of my research projects are driven by thinking about structural aspects of the American political economy play out in the day-to-day lives of Black people and other communities of color. My dissertation book project looks at how the shifting nature of Congress as an institution in the years following the Civil Rights Movement led to increased descriptive representation on one hand but increasing constraints on the types of transformational policies that can materially change the lives of Black people. I have other work on the American maternal mortality crisis and how the structure of American healthcare uniquely imperils the life course of Black women. 
