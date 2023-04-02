@@ -3,8 +3,8 @@
   contents:
     - name: Full Name
       value: Christian Hosam
-    - name: Date of Birth
-      value: August 23rd, 1993
+    - name: Location
+      value: Oakland, CA
   
 - title: Education
   type: time_table
@@ -12,11 +12,10 @@
     - title: PhD
       institution: University of California, Berkeley, <i>Political Science</i>
       year: 2024 (expected)
-      description: 
-        - Dissertation Title: 
-        - Committee: Taeku Lee (Co-Chair), Eric Schickler (Co-Chair), Desmond Jagmohan, Marcia Chatelain
- 
-        
+    - title: Bachelor of Arts (BA)
+      institution: Wesleyan University
+      year: 2015
+              
 - title: Experience
   type: time_table
   contents:
