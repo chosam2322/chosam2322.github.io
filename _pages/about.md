@@ -11,11 +11,12 @@ profile:
   address: >
     <i>Thank you for taking a moment to learn about me and my work.</i>
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false  # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-  Hello and welcome to my page! My name is Christian Hosam and I am a fifth year PhD Candidate in Political Science at University of California Berkeley. I am broadly interested in Black Politics and its shifting dynamics in the aftermath of the Civil Rights Movement. The successes of that era lead to significant gains for Black communities with respect to major legislation but also in terms of incorporation of Black legislators into multiple levels of government. How can we chart what this incorporation has meant for the lived realities of Black people over time? My dissertation project focuses on the Congressional Black Caucus and why, in spite of increased influence and power within Congress, they have been unable to achieve more landmark gains for Black communities.
-
-I have additional research on to the interplay between anti-Black racism, maternal health, and the unique features of the American healthcare system. Future work will look more explicitly at the unique features of the American Political Economy and the racial dynamics that were set off in the aftermath of the move to shareholder capitalism.
+Hello and welcome to my page! My name is Christian Hosam and I am a fifth year PhD Candidate in Political Science at the University of California Berkeley and a Graduate Student Researcher with the [UC Berkeley Possibility Lab](https://possibilitylab.berkeley.edu). My work has been published in Politics, Groups, and Identites and Sociological Forum. My work has been supported by the [Social Science Research Council](https://www.ssrc.org/programs/drugs-security-and-democracy-program/democratic-anxieties-in-the-americas-research-grants/grantees/), the UC Berkeley [Institute for Governmental Studies](https://igs.berkeley.edu/student-opportunities/awards-grants), the UC Berkeley [Center for the Study of Law and Society](https://csls.berkeley.edu), and the [APSA Diversity Fellowship Program](https://apsanet.org/dfp). 
+  
+ # Research Agenda 
+ My research focuses on the interplay between the intimate and the institutional in American Politics.  
