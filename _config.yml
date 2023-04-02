@@ -35,7 +35,7 @@ highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-them
 repo_theme_light: graywhite       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: gotham           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: false
+  enabled: true
   theme_light: dracula    # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed  # https://github.com/ryo-ma/github-profile-trophy
 
