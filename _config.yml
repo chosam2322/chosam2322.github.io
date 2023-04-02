@@ -217,6 +217,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll/scholar
   - jekyll-sitemap
+  - jekyll-seo-tag
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
