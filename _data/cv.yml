@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 - title: General Information
   type: map
   contents:
@@ -8,10 +9,13 @@
     - name: Languages
       value: English, German
 
+=======
+>>>>>>> origin/master
 - title: Education
   type: time_table
   contents:
     - title: PhD
+<<<<<<< HEAD
       institution: University of Zurich, Zurich, Switzerland
       year: 1905
       description:
@@ -67,10 +71,38 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+=======
+      institution: University of California, Berkeley, <i>Political Science</i>
+      description: 
+        - "<b>Dissertation Title</b> -  <i>Triaging Representation: The Congressional Black Caucus and Anti-Black Governance </i>"
+        - <b>Committee</b> - <a href="https://www.gov.harvard.edu/directory/taeku-lee/">Taeku Lee</a> (co-chair), <a href="https://polisci.berkeley.edu/people/person/eric-schickler">Eric Schickler</a> (co-chair), <a href="https://polisci.berkeley.edu/people/person/desmond-jagmohan">Desmond Jagmohan</a>, <a href="http://www.marciachatelain.com">Marcia Chatelain</a>
+      year: 2024 (expected)
+    - title: BA
+      institution: Wesleyan University
+      description: 
+        - <b>Majors</b> - Government and African American Studies
+      year: 2015
+              
+- title: Experience
+  type: time_table
+  contents:
+    - title: Graduate Student Researcher
+      institution: Possibility Lab
+      year: 2022-Present
+      
+    - title: Research Consultant
+      institution: Sojourn Strategies
+      year: 2020-2022
+
+    - title: Research Assistant
+      institution: Irvine Project
+      year: 2019-2021
+>>>>>>> origin/master
 
 - title: Honors and Awards
   type: time_table
   contents:
+<<<<<<< HEAD
     - year: 1921
       items: 
         - Nobel Prize in Physics 
@@ -95,3 +127,28 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+=======
+    - year: 2022
+      items: 
+        - UC Berkeley Institute for Governmental Studies David M. Howard Prize
+        - UC Berkeley Political Science Graduate Mentorship Award
+        - UC Berkeley Graduate Division Conference Travel Grant
+    - year: 2021
+      items: 
+        - Social Science Research Council Anxieties of Democracy Grant
+        - UC Berkeley Center for the Study of Law and Society Fellowship
+        - Ford Foundation Predoctoral Fellowship (Honorable Mention)
+    - year: 2017
+      items:
+        - APSA Diversity Fellowship Program
+
+      
+- title: Academic Interests
+  type: nested_list
+  contents: 
+    - title: <i>American Politics, Race, Congress, Black Politics, Representation, Public Health, American Political Economy</i>
+
+
+      
+
+>>>>>>> origin/master

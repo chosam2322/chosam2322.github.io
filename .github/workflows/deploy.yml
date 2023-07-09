@@ -9,16 +9,28 @@ on:
     branches:
       - master
       - main
+<<<<<<< HEAD
+=======
+  workflow_dispatch:
+
+permissions:
+  contents: write
+>>>>>>> origin/master
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+<<<<<<< HEAD
     - name: Checkout code
+=======
+    - name: Checkout 🛎️
+>>>>>>> origin/master
       uses: actions/checkout@v3
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
+<<<<<<< HEAD
         ruby-version: '3.0.2'
         bundler-cache: true
     - name: Install deps
@@ -40,3 +52,17 @@ jobs:
       run:  yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }}
                     --src ${{ steps.setup.outputs.SRC_BRANCH }} 
                     --deploy ${{ steps.setup.outputs.DEPLOY_BRANCH }} 
+=======
+        ruby-version: '3.2.1'
+        bundler-cache: true
+    - name: Install and Build 🔧
+      run: |
+        npm install -g mermaid.cli
+        bundle exec jekyll build
+    - name: Deploy 🚀
+      if: github.event_name != 'pull_request'
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: _site
+
+>>>>>>> origin/master

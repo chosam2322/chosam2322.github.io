@@ -19,6 +19,7 @@ d-byline a, d-article d-byline a {
 
 d-article {
   border-top-color: var(--global-divider-color) !important;
+<<<<<<< HEAD
   a, p, h1, h2, h3, h4, h5, h6, li, table {
     color: var(--global-text-color) !important;
   }
@@ -27,6 +28,19 @@ d-article {
   }
   a:hover {
     border-bottom-color: var(--global-hover-color) !important;
+=======
+  p, h1, h2, h3, h4, h5, h6, li, table {
+    color: var(--global-text-color) !important;
+  }
+  h1, h2, hr, table, table th, table td {
+    border-bottom-color: var(--global-divider-color) !important;
+  }
+  a {
+    color: var(--global-theme-color) !important;
+    &:hover {
+      color: var(--global-theme-color) !important;
+    }
+>>>>>>> origin/master
   }
   b i {
     display: inline;

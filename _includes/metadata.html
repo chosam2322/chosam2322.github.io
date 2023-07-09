@@ -6,6 +6,14 @@
     {% if site.enable_bing_verification -%}
     <meta name="msvalidate.01" content="{{ site.bing_site_verification }}" />
     {%- endif -%}
+<<<<<<< HEAD
+=======
+    <!-- Avoid warning on Google Chrome
+        Error with Permissions-Policy header: Origin trial controlled feature not enabled: 'interest-cohort'.
+        see https://stackoverflow.com/a/75119417
+    -->
+    <meta http-equiv="Permissions-Policy" content="interest-cohort=()" />
+>>>>>>> origin/master
 {%- endif %}
 
     <!-- Standard metadata -->
@@ -30,10 +38,17 @@
         {{ title }}
     {%- endif -%}
     </title>
+<<<<<<< HEAD
     <meta name="author" content="{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}" />
     <meta name="description" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
 {%- if page.keywords or site.keywords %}
     <meta name="keywords" content="{%- if page.keywords -%}{{ page.keywords }}{%- else -%}{{ site.keywords }}{%- endif -%}" />
+=======
+    <meta name="Christian Hosam" content="{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}" />
+    <meta name="Christian Hosam's Website" content="{%- if page.description -%}{{ page.description }}{%- else -%}{{ site.description }}{%- endif -%}" />
+{%- if page.keywords or site.keywords %}
+    <meta name="Christian Hosam" content="{%- if page.keywords -%}{{ page.keywords }}{%- else -%}{{ site.keywords }}{%- endif -%}" />
+>>>>>>> origin/master
 {%- endif %}
 
 {%- if site.serve_og_meta %}
@@ -123,6 +138,13 @@
         {%- capture link -%}https://www.wikidata.org/wiki/{{ site.wikidata_id }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}
     {%- endif -%}
+<<<<<<< HEAD
+=======
+    {%- if site.wikipedia_id -%}
+        {%- capture link -%}https://wikipedia.org/wiki/User:{{ site.wikipedia_id }}{%- endcapture -%}
+        {%- assign sameaslinks = sameaslinks | push: link -%}
+    {%- endif -%}
+>>>>>>> origin/master
     {%- if site.strava_userid -%}
         {%- capture link -%}https://www.strava.com/athletes/{{ site.strava_userid }}{%- endcapture -%}
         {%- assign sameaslinks = sameaslinks | push: link -%}

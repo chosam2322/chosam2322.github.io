@@ -6,7 +6,11 @@ services:
     container_name: al-folio-website
     command: bash -c "
       rm -f Gemfile.lock
+<<<<<<< HEAD
       && bundler exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose"
+=======
+      && bundler exec jekyll serve --watch --port=8080 --host=0.0.0.0 --livereload --verbose --trace"
+>>>>>>> origin/master
     ports:
       - 8080:8080
     volumes:
