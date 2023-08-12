@@ -2,11 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-<<<<<<< HEAD
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
-=======
 description: My repositories are currently private as I move through them but will be made public in the coming months
->>>>>>> origin/master
 nav: true
 nav_order: 3
 ---
@@ -24,7 +20,6 @@ nav_order: 3
 
 ---
 
-=======
 
 ---
 
@@ -43,7 +38,6 @@ nav_order: 3
 {% endif %}
 {% endif %}
 
->>>>>>> origin/master
 ## GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
