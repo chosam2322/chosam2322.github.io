@@ -4,5 +4,5 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: Christian_Hosam_CV-2.pdf
+cv_pdf: Christian_Hosam_CV_0812.pdf
 ---
