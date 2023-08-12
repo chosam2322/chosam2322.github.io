@@ -2,7 +2,7 @@ name: Docker Image CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ deploy ]
 
 jobs: 
 
@@ -13,11 +13,7 @@ jobs:
 
     steps:
     - name: Checkout
-<<<<<<< HEAD
-      uses: actions/checkout@v2
-=======
       uses: actions/checkout@v3
->>>>>>> origin/master
     - name: Buildx
       uses: docker/setup-buildx-action@v1
 
