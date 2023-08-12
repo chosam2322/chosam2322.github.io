@@ -1,20 +1,6 @@
 github_users:
-<<<<<<< HEAD
-  - torvalds
-  - alshedivat
-
-github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
-=======
   - chosam2322
 
 github_repos:
   
-  
->>>>>>> origin/master
+
