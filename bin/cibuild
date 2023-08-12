@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-bundle exec jekyll build
-=======
+
 bundle exec jekyll build --lsi
->>>>>>> origin/master
+
