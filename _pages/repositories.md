@@ -17,21 +17,14 @@ nav_order: 3
 </div>
 {% endif %}
 
----
-
-
----
-
 {% if site.repo_trophies.enabled %}
 {% for user in site.data.repositories.github_users %}
   {% if site.data.repositories.github_users.size > 1 %}
   <h4>{{ user }}</h4>
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.html username=user %}
+    {% include repository/repo_trophies.html username=user %}
   </div>
-
-  ---
-
+  {% endif %}
 {% endfor %}
 {% endif %}
 
