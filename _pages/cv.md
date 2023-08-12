@@ -7,6 +7,6 @@ nav_order: 4
 <<<<<<< HEAD
 cv_pdf: example_pdf.pdf
 =======
-cv_pdf: Christian_Hosam_CV-3.pdf
+cv_pdf: Christian_Hosam_CV-2.pdf
 >>>>>>> origin/master
 ---
