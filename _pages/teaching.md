@@ -2,20 +2,11 @@
 layout: page
 permalink: /teaching/
 title: teaching
-<<<<<<< HEAD
-description: Materials for courses you taught. Replace this text with your description.
-=======
 description: 
->>>>>>> origin/master
 nav: true
 nav_order: 5
 ---
 
-<<<<<<< HEAD
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
-=======
 My teaching interests are centered around topics related the intersection of race, representation, public policy, and the American Political Economy.  
 
 ## potential courses include 
@@ -45,4 +36,3 @@ Some selected reviews of my teaching are below:
 
 
 I will also be completing the UC Berkeley [Certificate in Teaching and Learning in Higher Education](https://gsi.berkeley.edu/programs-services/certificate-program/) in Fall 2023. 
->>>>>>> origin/master
