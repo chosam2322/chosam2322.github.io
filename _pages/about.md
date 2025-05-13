@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello and welcome to my page! My name is Christian Hosam and I am a fifth year PhD Candidate in Political Science at the University of California Berkeley and a Graduate Student Researcher with the [UC Berkeley Possibility Lab](https://possibilitylab.berkeley.edu). My work has been published in <i>Politics, Groups, and Identites</i> and <i>Sociological Forum</i>. I am also the co-author of <i>Latino Politics, 3rd ed.</i>, with Professor Lisa Garcia Bedolla. I have also received generous research funding support from the [Social Science Research Council](https://www.ssrc.org/programs/drugs-security-and-democracy-program/democratic-anxieties-in-the-americas-research-grants/grantees/), the [UC Berkeley Institute for Governmental Studies](https://igs.berkeley.edu/student-opportunities/awards-grants), the [UC Berkeley Center for the Study of Law and Society](https://csls.berkeley.edu), and the [APSA Diversity Fellowship Program](https://apsanet.org/dfp). 
+Hello and welcome to my page! My name is Christian Hosam and I am an Assistant Professor of Political Science at Wellesley College. I was previously a PhD Candidate in Political Science at the University of California Berkeley and, among other things, a Graduate Student Researcher with the [UC Berkeley Possibility Lab](https://possibilitylab.berkeley.edu). My work has been published in <i>Politics, Groups, and Identites</i> and <i>Sociological Forum</i>. I am also the co-author of <i>Latino Politics, 3rd ed.</i>, with Professor Lisa Garcia Bedolla. I have also received generous research funding support from the [Social Science Research Council](https://www.ssrc.org/programs/drugs-security-and-democracy-program/democratic-anxieties-in-the-americas-research-grants/grantees/), the [UC Berkeley Institute for Governmental Studies](https://igs.berkeley.edu/student-opportunities/awards-grants), the [UC Berkeley Center for the Study of Law and Society](https://csls.berkeley.edu), and the [APSA Diversity Fellowship Program](https://apsanet.org/dfp). 
 
 In addition to my academic work, I have also written for public outlets such as [Dissent Magazine](https://www.dissentmagazine.org/online_articles/from-police-brutality-to-the-city-budget) and [The Washington Post](https://www.washingtonpost.com/news/made-by-history/wp/2018/06/15/the-supreme-courts-long-war-against-voting-rights/). 
   
-Outside of work, I can be found in the gym, listening to the same music on repeat, or walking my dog Penelope. 
+Want to connect? Think and plot together? Please reach out at ch128@wellesley.edu
 
 <br>
 
