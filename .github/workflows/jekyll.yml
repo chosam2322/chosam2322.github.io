@@ -38,7 +38,7 @@ jobs:
         JEKYLL_ENV: production
 
     - name: Upload GitHub Pages artifact
-      uses: actions/upload-pages-artifact@v1
+      uses: actions/upload-pages-artifact@v4
       with:
         path: ./_site
         name: github-pages   # 👈 must match what deploy-pages expects
