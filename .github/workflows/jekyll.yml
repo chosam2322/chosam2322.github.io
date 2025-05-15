@@ -40,6 +40,10 @@ jobs:
       uses: actions/upload-pages-artifact@v4
       with:
         path: ./_site
+    - name: Download GitHub Pages artifact
+      uses: actions/download-pages-artifact@v4
+      with:
+        path: ./_site
 
  deploy:
     runs-on: ubuntu-latest
