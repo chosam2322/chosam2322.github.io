@@ -43,6 +43,9 @@ jobs:
         path: ./_site
         name: github-pages   # 👈 must match what deploy-pages expects
 
+    - name: Download a Build Artifact
+      uses: actions/download-artifact@v4.3.0
+
 
   deploy:
     runs-on: ubuntu-latest
