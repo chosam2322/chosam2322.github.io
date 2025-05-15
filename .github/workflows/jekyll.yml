@@ -14,10 +14,6 @@ concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# ✅ REQUIRED: Declare Pages deployment support
-deployment:
-  pages:
-
 jobs:
   build:
     runs-on: ubuntu-latest
