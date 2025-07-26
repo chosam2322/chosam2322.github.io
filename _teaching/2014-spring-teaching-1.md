@@ -1,20 +1,14 @@
----
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
----
 
-This is a description of a teaching experience. You can use markdown like any other post.
+My teaching interests largely interact and intersect with my research interests, focusing either on issues relating to racial and ethnic politics, the American Political Economy, or American Politics more generally.
 
-Heading 1
+Fall 2025 Semester
 ======
+  - Intro to American Politics
+  - American Political Economy
 
-Heading 2
+Spring 2025 Semester
 ======
+  - Intro To American Politics
+  - A Seat at the Table? Race and Representation in American Political Institutions
 
-Heading 3
-======
+
