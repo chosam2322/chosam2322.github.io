@@ -15,7 +15,7 @@ My first book project, tentatively titled *The Last Best Hope: Black Congression
 
 I have had work published on this topic and others at academic venues such as *Politics, Groups, and Identities*, *Sociological Forum*, and *Polity*.
 
-At Wellesley, I teach courses in American Politics such as Intro to American Politics, A Seat at the Table? Race and Representation in American Political Institutions, American Political Economy, Black Politics, and When Am I Going to Make A Living? The Political Economy of Career Selection.
+At Wellesley, I teach courses in American Politics such as <i>Intro to American Politics, A Seat at the Table? Race and Representation in American Political Institutions, American Political Economy, Black Politics, and When Am I Going to Make A Living? The Political Economy of Career Selection.</i>
 
 I received my PhD in Political Science from the University of California, Berkeley in 2024. I graduated from Wesleyan University in 2015 with a double major in Government and African American Studies (with Honors). 
 
