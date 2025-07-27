@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Christian Hosam's Website"
+title                    : "Dr. Christian Hosam"
 title_separator          : "-"
 name                     : "Christian Hosam, PhD"
 description              : &description "personal description"
