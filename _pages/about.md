@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am an Assistant Professor of Political Science at Wellesley College. 
+Hello! I am an Assistant Professor of Political Science and Faculty Affiliate of the Albright Institute at Wellesley College. 
 
 My research focuses on the unique features of the American political economy and how those features are shaped by Black politics and, in turn, how these features shape Black life. I am specifically interested in the ways that policy goals that can largely be considered civic successes for African American communities often invert on themselves, creating new conditions that often exacerbate racial inequalities even as they endeavor to help reduce them.
 
@@ -17,8 +17,8 @@ I have had work published on this topic and others at academic venues such as *P
 
 At Wellesley, I teach courses in American Politics such as <i>Intro to American Politics; A Seat at the Table? Race and Representation in American Political Institutions; American Political Economy; Black Politics; and When Am I Going to Make A Living? The Political Economy of Career Selection.</i>
 
-I received my PhD in Political Science from the University of California, Berkeley in 2024. I graduated from Wesleyan University in 2015 with a double major in Government and African American Studies (with Honors). 
+My work has been supported by the Social Science Research Council, the UC Berkeley Empirical Legal Studies Fellowship, the UC Berkeley Institute for Governmental Studies, and American Political Science Association's Diversity Fellowship.
 
-Off campus, I'm a part of the Boston 1 Dragon Boat Racing Team and always looking for a new restaurant in Boston to try. 
+I received my PhD in Political Science from the University of California, Berkeley in 2024. I graduated from Wesleyan University in 2015 with a double major in Government and African American Studies (with Honors). 
 
 Feel free to drop me a line to connect about areas in my research agenda I might be of assistance on. 
