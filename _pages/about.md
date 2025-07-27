@@ -9,7 +9,7 @@ redirect_from:
 
 Hello! I am an Assistant Professor of Political Science at Wellesley College. 
 
-My research focuses on the unique features of the American political economy and how those features are shaped by Black politics and, in turn, how these features shape Black life. I am specifically interested in the ways that policy goals that can largely be considered civic successes for African American communities often invert on themselves, creating new conditions that often exacerbate racial inequalities even as they endeavor to help reduce them. At Wellesley, I teach courses that speak to the component parts of these interests, including Intro to American Politics, American Political Economy, Black Politics, and A Seat at the Table? Race and Representation in American Political Institutions. 
+My research focuses on the unique features of the American political economy and how those features are shaped by Black politics and, in turn, how these features shape Black life. I am specifically interested in the ways that policy goals that can largely be considered civic successes for African American communities often invert on themselves, creating new conditions that often exacerbate racial inequalities even as they endeavor to help reduce them.
 
 My first book project, tentatively titled *The Last Best Hope: Black Congressional Representation and the Elusive Search for Racial Justice*, focuses on the ways that even as Black Members of Congress have an increasingly central role to play in the governance of the Democratic Party, they are also faced with even more intensive constraints as polarization and gridlock shape the fortunes of racial justice legislation and action in the American Congress. 
 
