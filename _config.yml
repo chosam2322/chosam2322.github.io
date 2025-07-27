@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
+site_theme               : "contrast"
 title                    : "Dr. Christian Hosam"
 title_separator          : "-"
 name                     : "Christian Hosam, PhD"
