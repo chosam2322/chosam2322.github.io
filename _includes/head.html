@@ -5,7 +5,6 @@
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
-<script src="{{ '/assets/js/theme-toggle.js' | relative_url }}"></script>
 
 <button id="theme-toggle" aria-label="Toggle theme">
   <i class="fas fa-adjust"></i>
