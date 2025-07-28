@@ -15,7 +15,7 @@ My first book project, tentatively titled *The Last Best Hope: Black Congression
 
 I have had work published on this topic and others at academic venues such as *Politics, Groups, and Identities*, *Sociological Forum*, and *Polity*.
 
-At Wellesley, I teach courses in American Politics such as <i>Intro to American Politics; A Seat at the Table? Race and Representation in American Political Institutions; American Political Economy; Black Politics; and When Am I Going to Make A Living? The Political Economy of Career Selection.</i>
+At Wellesley, I teach courses in American Politics such as <i>Intro to American Politics; A Seat at the Table? Race and Representation in American Political Institutions; American Political Economy; Black Politics;</i> and <i>When Am I Going to Make A Living? The Political Economy of Career Selection.</i>
 
 My work has been supported by the Social Science Research Council, the UC Berkeley Empirical Legal Studies Fellowship, the UC Berkeley Institute for Governmental Studies, and American Political Science Association's Diversity Fellowship Program.
 
