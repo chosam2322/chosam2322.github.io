@@ -8,6 +8,20 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
+#site-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#site-nav li {
+  margin: 0;
+}
+
+
 @import
     "vendor/breakpoint/breakpoint",
 
